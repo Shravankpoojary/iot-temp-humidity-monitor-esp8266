@@ -52,9 +52,12 @@ Temperature, Field 2 = Humidity, and copy your Write API Key.
    - YOUR_WIFI_PASSWORD → your WiFi password
    - YOUR_CHANNEL_ID → your ThingSpeak channel ID
    - YOUR_WRITE_API_KEY → your ThingSpeak Write API Key
-<img width="784" height="336" alt="AdobeExpressPhotos_0270309eb6df40e0920848d850b3f187_CopyEdited" src="https://github.com/user-attachments/assets/90ddd28a-8a26-428a-a25e-998c389549e9" />
-
-Figure 1: Locating ThingSpeak Credentials for Firmware.
+   - 
+<p align="center">
+  <img width="784" height="336" alt="ThingSpeak Credentials Location" src="https://github.com/user-attachments/assets/90ddd28a-8a26-428a-a25e-998c389549e9" />
+  <br>
+  <em>Figure 1: Locating ThingSpeak Credentials for Firmware.</em>
+</p>
 
 7. Select board: NodeMCU 1.0 (ESP-12E Module)
 8. Upload the code
