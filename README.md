@@ -78,3 +78,13 @@ Serial Monitor:
 
 Figure c: Real-time visualization of Temperature and Humidity on ThingSpeak Dashboard and Arduino IDE serial monitor.
 
+## Project Demonstration
+
+<p align="center">
+  <b>▶️ CLICK THE IMAGE BELOW TO WATCH THE VIDEO DEMONSTRATION</b><br><br>
+  <a href="https://youtu.be/SyCQacpZos8">
+    <img width="100%" alt="IoT Weather Monitor Project Demo" src="https://img.youtube.com/vi/SyCQacpZos8/maxresdefault.jpg" />
+  </a>
+  <br>
+  <em>YouTube video showing a real-time demonstration of the NodeMCU ESP8266 and DHT11 pushing live environmental telemetry to a ThingSpeak cloud dashboard.</em>
+</p>
