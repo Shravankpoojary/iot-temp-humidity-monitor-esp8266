@@ -83,7 +83,7 @@ Figure c: Real-time visualization of Temperature and Humidity on ThingSpeak Dash
 <p align="center">
   <b>▶️ CLICK THE IMAGE BELOW TO WATCH THE VIDEO DEMONSTRATION</b><br><br>
   <a href="https://youtu.be/SyCQacpZos8">
-    <img width="100%" alt="IoT Weather Monitor Project Demo" src="https://img.youtube.com/vi/SyCQacpZos8/maxresdefault.jpg" />
+<img width="1529" height="688" alt="Firefly (32)" src="https://github.com/user-attachments/assets/a3c66ee6-f8f3-475e-b527-49245385f5e2" />
   </a>
   <br>
   <em>YouTube video showing a real-time demonstration of the NodeMCU ESP8266 and DHT11 pushing live environmental telemetry to a ThingSpeak cloud dashboard.</em>
